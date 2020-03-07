@@ -6,4 +6,7 @@ public class Testpgm1 {
       sum = num1 + num2;
 
       System.out.println("Sum of these numbers: "+sum);
+	  
+   }
+}
    
